@@ -1,0 +1,88 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 2.1.1\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: pt_BR\n"
+
+#. Text in echo
+#: cliengo-admin-display.php:47
+msgid "Cliengo account"
+msgstr "Painel de Configuração"
+
+#. Text in echo
+#: cliengo-admin-display.php:23
+msgid "Do you already have a Cliengo account?"
+msgstr "Você já possui uma conta Cliengo?"
+
+#. Text in echo
+#: cliengo-admin-display.php:80
+msgid "Create account"
+msgstr "Criar conta"
+
+#. Text in echo
+#: cliengo-admin-display.php:35
+msgid "No, I want to create one"
+msgstr "Não,quero criar uma"
+
+#. Text in echo
+#: cliengo-admin-display.php:74
+msgid "Register in less than a minute"
+msgstr "Registre-se em menos de um minuto"
+
+#. Text in echo
+#: cliengo-admin-display.php:63
+msgid "Save changes"
+msgstr "Salvar alterações"
+
+#. Text in echo
+#: cliengo-admin-display.php:29
+msgid "Yes"
+msgstr "Sim"
+
+#. Text in echo
+#: cliengo-admin-display.php:62
+msgid "Chatbot token update failed"
+msgstr "Erro na atualização do token do chatbot"
+
+#. Text in echo
+#: cliengo-admin-display.php:59
+msgid "Chatbot token has been successfully updated"
+msgstr "O token do chatbot foi atualizado corretamente"
+
+#. Text in echo
+#: cliengo-admin-display.php:56
+msgid "Chatbot token entered is incorrect"
+msgstr "O token do chatbot que você digitou está incorreto"
+
+#. Text in echo
+#: cliengo-admin-display.php:79
+msgid "Right"
+msgstr "Direita"
+
+#. Text in echo
+#: cliengo-admin-display.php:82
+msgid "Left"
+msgstr "Esquerda"
+
+#. Text in echo
+#: cliengo-admin-display.php:74
+msgid "Position Chatbot"
+msgstr "Posição do Chabot"
+
+#. Text in echo
+#: cliengo-admin-display.php:56
+msgid "Invalid credentials"
+msgstr "Credenciais inválidas"
+
+#. Text in echo
+#: cliengo-admin-display.php:59
+msgid "Generic login error"
+msgstr "Erro ao efetuar login, por favor tente novamente"

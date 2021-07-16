@@ -1,0 +1,226 @@
+# Translation of Plugins - Cliengo &#8211; Free Chatbot - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Cliengo &#8211; Free Chatbot - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-03-02 08:14:55+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Cliengo &#8211; Free Chatbot - Stable (latest release)\n"
+
+#. Description of the plugin
+msgid "Cliengo is a free chatbot specially made to boost your sales. Now you can turn your website's visitors into leads, automatically 24/7. Multi-language: English/Spanish/Portuguese"
+msgstr "Cliengo es un chatbot gratuito hecho especialmente para aumentar tus ventas. Ahora puedes convertir a los visitantes de tu web en clientes potenciales, automáticamente, las 24 horas del día, los 7 días de la semana. Multilingüe: Inglés/Español/Portugués"
+
+#. Plugin Name of the plugin
+msgid "Cliengo - Free Chatbot"
+msgstr "Cliengo - Free Chatbot"
+
+#: admin/partials/cliengo-admin-display.php:346
+msgid "and test your site!"
+msgstr "y probar tu sitio!"
+
+#: admin/partials/cliengo-admin-display.php:344
+msgid "You can now go to"
+msgstr "Ahora puedes ir a"
+
+#: admin/partials/cliengo-admin-display.php:341
+msgid "Congratulations! You've successfully installed Cliengo chatbot on your site!"
+msgstr "¡Felicidades! ¡Has instalado Cliengo en tu sitio!"
+
+#: admin/partials/cliengo-admin-display.php:326
+msgid "Register & install Cliengo"
+msgstr "Regístrate e instala Cliengo"
+
+#: admin/partials/cliengo-admin-display.php:322
+msgid "www.mysite.com"
+msgstr "www.misitio.com"
+
+#: admin/partials/cliengo-admin-display.php:319
+msgid "Your website"
+msgstr "Tu web"
+
+#: admin/partials/cliengo-admin-display.php:315
+msgid "Select a password"
+msgstr "Selecciona una contraseña"
+
+#: admin/partials/cliengo-admin-display.php:312
+msgid "Password"
+msgstr "Contraseña"
+
+#: admin/partials/cliengo-admin-display.php:305
+msgid "E-mail"
+msgstr "Correo electrónico"
+
+#: admin/partials/cliengo-admin-display.php:301
+msgid "John Doe"
+msgstr "Juan Pérez"
+
+#: admin/partials/cliengo-admin-display.php:298
+msgid "Your Name"
+msgstr "Tu nombre"
+
+#: admin/partials/cliengo-admin-display.php:287
+msgid "Please fill out the entire form."
+msgstr "Por favor, completa todos los campos"
+
+#: admin/partials/cliengo-admin-display.php:284
+msgid "Please provide a valid website. E.g. www.mysite.com"
+msgstr "Por favor, proporciona una web válida. E.j. www.misitio.com"
+
+#: admin/partials/cliengo-admin-display.php:281
+msgid "You password should have at least 8 characters."
+msgstr "Tu contraseña deberá tener al menos 8 caracteres."
+
+#: admin/partials/cliengo-admin-display.php:274
+msgid "Register in less than a minute and start your <b>free 14-day trial!</b>"
+msgstr "¡Regístrate en menos de un minuto y empieza tu <b>prueba gratuita de 14 días!</b>"
+
+#: admin/partials/cliengo-admin-display.php:251
+msgid "Configure"
+msgstr "Configurar"
+
+#: admin/partials/cliengo-admin-display.php:244
+msgid "Bottom Left"
+msgstr "Abajo a la izquierda"
+
+#: admin/partials/cliengo-admin-display.php:241
+msgid "Bottom Right"
+msgstr "Abajo a la derecha"
+
+#: admin/partials/cliengo-admin-display.php:236
+msgid "Chatbot Position"
+msgstr "Posición del chatbot"
+
+#: admin/partials/cliengo-admin-display.php:228
+msgid "Successfully updated chatbot position!"
+msgstr "Se ha actualizado la posición del chatbot con éxito."
+
+#: admin/partials/cliengo-admin-display.php:219
+msgid "This configuration only applies to Chatbot Version 1"
+msgstr "Esta configuración sólo aplica para la versión 1 del chatbot."
+
+#: admin/partials/cliengo-admin-display.php:214
+msgid "Advanced Configuration"
+msgstr "Configuraciones avanzadas"
+
+#: admin/partials/cliengo-admin-display.php:195
+msgid "Install chatbot"
+msgstr "Instalar chatbot"
+
+#: admin/partials/cliengo-admin-display.php:185
+msgid "Click to list websites..."
+msgstr "Haz clic para listar las webs..."
+
+#: admin/partials/cliengo-admin-display.php:179
+msgid "Select a website"
+msgstr "Selecciona una web"
+
+#: admin/partials/cliengo-admin-display.php:174
+msgid "Please select the desired website in order to install the associated chatbot in your site"
+msgstr "Por favor, selecciona la web en la que quieres instalar el chatbot asociado"
+
+#: admin/partials/cliengo-admin-display.php:171
+msgid "Chatbot Selection"
+msgstr "Seleccionar chatbot"
+
+#: admin/partials/cliengo-admin-display.php:164
+msgid "Take me there!"
+msgstr "¡Llevame hasta allí!"
+
+#: admin/partials/cliengo-admin-display.php:162
+msgid "At Cliengo, you can manage your clients, customize your chatbots's appearance, conversation and automatic responses, integrate with other services and much more!"
+msgstr "En Cliengo puedes gestionar tus clientes, personalizar la apariencia, conversación y respuesta automática de tu chatbot, integrar con otros servicios, ¡y muchos más!"
+
+#: admin/partials/cliengo-admin-display.php:159
+msgid "Account Management"
+msgstr "Administración de tu cuenta"
+
+#: admin/partials/cliengo-admin-display.php:147
+msgid "Back to Login"
+msgstr "Regresar a inicio de sesión"
+
+#: admin/partials/cliengo-admin-display.php:126
+msgid "Login at <a href=\"https://app.cliengo.com/\" target=\"_blank\">Cliengo</a> to obtain your chatbot token under Chatbots -> Installation section"
+msgstr "Inicia sesión en <a href=\"https://app.cliengo.com/\" target=\"_blank\">Cliengo</a> para obtener el token en la sección de Chatbots - Instalación."
+
+#: admin/partials/cliengo-admin-display.php:121
+msgid "Provide your token"
+msgstr "Introduce tu token"
+
+#: admin/partials/cliengo-admin-display.php:103
+msgid "Log In"
+msgstr "Acceder"
+
+#: admin/partials/cliengo-admin-display.php:100
+msgid "Registered through social media? Click <a href=\"#\" @click=\"login.tokenInputSelected = true\">here</a>"
+msgstr "¿Te registraste por red social? Haz clic <a href=\"#\" @click=\"login.tokenInputSelected = true\">aquí</a>"
+
+#: admin/partials/cliengo-admin-display.php:97
+msgid "*********"
+msgstr "*********"
+
+#: admin/partials/cliengo-admin-display.php:91
+#: admin/partials/cliengo-admin-display.php:308
+msgid "name@somewebsite.com"
+msgstr "nombre@sitioweb.com"
+
+#: admin/partials/cliengo-admin-display.php:82
+msgid "Error logging in, please try again"
+msgstr "Error de inicio de sesión. Por favor, inténtalo nuevamente."
+
+#: admin/partials/cliengo-admin-display.php:79
+msgid "Invalid username/password"
+msgstr "Usuario/contraseña no válido"
+
+#: admin/partials/cliengo-admin-display.php:70
+msgid "Chatbot Configuration"
+msgstr "Configuración del chatbot"
+
+#: admin/partials/cliengo-admin-display.php:69
+msgid "Log into your Cliengo account"
+msgstr "Inicia sesión en tu cuenta de Cliengo"
+
+#: admin/partials/cliengo-admin-display.php:58
+msgid "Successfully uninstalled Cliengo Chatbot from your site"
+msgstr "Chatbot de Cliengo desinstalado correctamente de tu sitio"
+
+#: admin/partials/cliengo-admin-display.php:28
+msgid "Unlink Account"
+msgstr "Desvincular cuenta."
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "http://cliengo.com/?utm_source=wordpress_plugin&utm_medium=wordpress"
+msgstr "http://cliengo.com/?utm_source=wordpress_plugin&utm_medium=wordpress"
+
+#. Author of the plugin
+msgid "Cliengo"
+msgstr "Cliengo"
+
+#: admin/partials/cliengo-admin-display.php:149
+msgid "Save changes"
+msgstr "Guardar los cambios"
+
+#: admin/partials/cliengo-admin-display.php:135
+msgid "Chatbot token update failed"
+msgstr "Error en la actualizacion del token de chatbot"
+
+#: admin/partials/cliengo-admin-display.php:132
+msgid "Chatbot token entered is incorrect"
+msgstr "El token de chatbot que has introducido es incorrecto"
+
+#: admin/partials/cliengo-admin-display.php:45
+msgid "No, I want to create one"
+msgstr "No, quiero crear una"
+
+#: admin/partials/cliengo-admin-display.php:39
+msgid "Yes"
+msgstr "Sí"
+
+#: admin/partials/cliengo-admin-display.php:33
+msgid "Do you already have a Cliengo account?"
+msgstr "¿Ya tienes una cuenta en Cliengo?"

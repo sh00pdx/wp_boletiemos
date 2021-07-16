@@ -1,0 +1,87 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 2.0.6\n"
+
+#. Text in echo
+#: cliengo-admin-display.php:47
+msgid "Cliengo account"
+msgstr ""
+
+#. Text in echo
+#: cliengo-admin-display.php:62
+msgid "Chatbot token update failed"
+msgstr ""
+
+#. Text in echo
+#: cliengo-admin-display.php:23
+msgid "Do you already have a Cliengo account?"
+msgstr ""
+
+#. Text in echo
+#: cliengo-admin-display.php:80
+msgid "Register in Cliengo Here!"
+msgstr ""
+
+#. Text in echo
+#: cliengo-admin-display.php:35
+msgid "No, I want to create one"
+msgstr ""
+
+#. Text in echo
+#: cliengo-admin-display.php:74
+msgid "Register in less than a minute"
+msgstr ""
+
+#. Text in echo
+#: cliengo-admin-display.php:63
+msgid "Save changes"
+msgstr ""
+
+#. Text in echo
+#: cliengo-admin-display.php:59
+msgid "Chatbot token has been successfully updated"
+msgstr ""
+
+#. Text in echo
+#: cliengo-admin-display.php:56
+msgid "Chatbot token that entered is incorrect"
+msgstr ""
+
+#. Text in echo
+#: cliengo-admin-display.php:29
+msgid "Yes"
+msgstr ""
+
+#. Text in echo
+#: cliengo-admin-display.php:79
+msgid "Right"
+msgstr ""
+
+#. Text in echo
+#: cliengo-admin-display.php:82
+msgid "Left"
+msgstr ""
+
+#. Text in echo
+#: cliengo-admin-display.php:74
+msgid "Position Chatbot"
+msgstr ""
+
+#. Text in echo
+#: cliengo-admin-display.php:56
+msgid "Invalid credentials"
+msgstr ""
+
+#. Text in echo
+#: cliengo-admin-display.php:59
+msgid "Generic login error"
+msgstr ""

@@ -1,0 +1,88 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 2.1.1\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: es\n"
+
+#. Text in echo
+#: cliengo-admin-display.php:47
+msgid "Cliengo account"
+msgstr "Panel de Configuracion"
+
+#. Text in echo
+#: cliengo-admin-display.php:23
+msgid "Do you already have a Cliengo account?"
+msgstr "Tienes cuenta en Cliengo?"
+
+#. Text in echo
+#: cliengo-admin-display.php:80
+msgid "Create account"
+msgstr "Crear cuenta"
+
+#. Text in echo
+#: cliengo-admin-display.php:35
+msgid "No, I want to create one"
+msgstr "No, necesito registrarme"
+
+#. Text in echo
+#: cliengo-admin-display.php:74
+msgid "Register in less than a minute"
+msgstr "Registrate en menos de un minuto"
+
+#. Text in echo
+#: cliengo-admin-display.php:63
+msgid "Save changes"
+msgstr "Guardar Cambios"
+
+#. Text in echo
+#: cliengo-admin-display.php:29
+msgid "Yes"
+msgstr "Si"
+
+#. Text in echo
+#: cliengo-admin-display.php:62
+msgid "Chatbot token update failed"
+msgstr "Error en la actualizacion del token de chatbot"
+
+#. Text in echo
+#: cliengo-admin-display.php:59
+msgid "Chatbot token has been successfully updated"
+msgstr "El token de chatbot ha sido actualizado correctamente"
+
+#. Text in echo
+#: cliengo-admin-display.php:56
+msgid "Chatbot token entered is incorrect"
+msgstr "El token de chatbot que ha ingresado es incorrecto"
+
+#. Text in echo
+#: cliengo-admin-display.php:79
+msgid "Right"
+msgstr "Derecha"
+
+#. Text in echo
+#: cliengo-admin-display.php:82
+msgid "Left"
+msgstr "Izquierda"
+
+#. Text in echo
+#: cliengo-admin-display.php:74
+msgid "Position Chatbot"
+msgstr "Posicion del Chatbot"
+
+#. Text in echo
+#: cliengo-admin-display.php:56
+msgid "Invalid credentials"
+msgstr "Credenciales inválidas"
+
+#. Text in echo
+#: cliengo-admin-display.php:59
+msgid "Generic login error"
+msgstr "Error, por favor intenta nuevamente"

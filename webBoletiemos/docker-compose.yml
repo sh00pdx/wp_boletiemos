@@ -1,0 +1,47 @@
+version: '3.3'
+services:
+   db:
+     image: mysql:5.7
+     volumes:
+       - /opt/webBoletiemos_data:/var/lib/mysql
+       - "/etc/timezone:/etc/timezone:ro"
+       - "/etc/localtime:/etc/localtime:ro"
+     restart: always
+     ports:
+      - "33067:3306"
+     networks:
+      - internal
+     environment:
+       MYSQL_ROOT_PASSWORD: B0l3t1emos#
+       MYSQL_DATABASE: wordpress
+       MYSQL_USER: admin.db
+       MYSQL_PASSWORD: 4dm1n2020#
+   wordpress:
+     depends_on:
+       - db
+     image: wordpress:latest       #wordpress:5.5.0-php7.4
+     volumes:
+       - /opt/webBoletiemos_code:/var/www/html
+#       - /opt/webBoletiemos_code/php.ini:/usr/local/etc/php/php.ini-production
+       - "/etc/timezone:/etc/timezone:ro"
+       - "/etc/localtime:/etc/localtime:ro"
+     ports:
+       - "81:80"
+     networks:
+       - DMZ
+       - internal
+     restart: always
+     environment:
+       WORDPRESS_DB_HOST: db:3306
+       WORDPRESS_DB_USER: admin.db
+       WORDPRESS_DB_PASSWORD: 4dm1n2020#
+       WORDPRESS_DB_NAME: wordpress
+volumes:
+    db_data: {}
+networks:
+  DMZ:
+    external:
+      name: DMZ
+  internal:
+    external:
+      name: internal
